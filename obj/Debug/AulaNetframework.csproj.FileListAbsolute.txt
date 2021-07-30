@@ -1,0 +1,7 @@
+C:\Users\joaon\source\repos\AulaNetframework\AulaNetframework\bin\Debug\AulaNetframework.exe.config
+C:\Users\joaon\source\repos\AulaNetframework\AulaNetframework\bin\Debug\AulaNetframework.exe
+C:\Users\joaon\source\repos\AulaNetframework\AulaNetframework\bin\Debug\AulaNetframework.pdb
+C:\Users\joaon\source\repos\AulaNetframework\AulaNetframework\obj\Debug\AulaNetframework.csproj.AssemblyReference.cache
+C:\Users\joaon\source\repos\AulaNetframework\AulaNetframework\obj\Debug\AulaNetframework.csproj.CoreCompileInputs.cache
+C:\Users\joaon\source\repos\AulaNetframework\AulaNetframework\obj\Debug\AulaNetframework.exe
+C:\Users\joaon\source\repos\AulaNetframework\AulaNetframework\obj\Debug\AulaNetframework.pdb
