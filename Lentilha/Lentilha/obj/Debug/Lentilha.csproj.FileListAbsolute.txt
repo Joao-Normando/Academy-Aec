@@ -1,0 +1,7 @@
+C:\Users\joaon\source\repos\Lentilha\Lentilha\bin\Debug\Lentilha.exe.config
+C:\Users\joaon\source\repos\Lentilha\Lentilha\bin\Debug\Lentilha.exe
+C:\Users\joaon\source\repos\Lentilha\Lentilha\bin\Debug\Lentilha.pdb
+C:\Users\joaon\source\repos\Lentilha\Lentilha\obj\Debug\Lentilha.csproj.AssemblyReference.cache
+C:\Users\joaon\source\repos\Lentilha\Lentilha\obj\Debug\Lentilha.csproj.CoreCompileInputs.cache
+C:\Users\joaon\source\repos\Lentilha\Lentilha\obj\Debug\Lentilha.exe
+C:\Users\joaon\source\repos\Lentilha\Lentilha\obj\Debug\Lentilha.pdb
