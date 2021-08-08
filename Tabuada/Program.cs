@@ -14,19 +14,19 @@ namespace estruturaRepeticao
             Console.WriteLine("Informe o numero para tabuada : ");
                 int numero = Convert.ToInt32(Console.ReadLine());
 
-                for (int x= 1; x <= 10; x++)
+                for (int x= 0; x <= 10; x++)
                 {
                     Console.WriteLine(numero + " x " + x+ " = " + numero * x);
             }
                 contador++;
 
-            for (float x = 1; x <= 10; x++)
+            for (float x = 0; x <= 10; x++)
             {
                 Console.WriteLine("Divisão : "+numero + " / " + x + " = " + numero / x);
                 
             }
     
-            for (int x = 1; x <= 10; x++)
+            for (int x = 0; x <= 10; x++)
             {
                 Console.WriteLine("Soma : " + numero + " + " + x + " = " + numero + x);
             }
